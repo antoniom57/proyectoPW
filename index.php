@@ -20,7 +20,7 @@
             </div>
 
             <div class="username">
-                <input name="password" type="password" required>
+                <input name="contraseña" type="password" required>
                 <label>Contraseña</label>
             </div>
 
@@ -35,10 +35,5 @@
 
     </div>
 
-
-
-
-   
-    
 </body>
 </html>

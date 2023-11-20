@@ -1,9 +1,9 @@
 <?php
 
-$host_db="localhost";
+$host_db="localhost:3306";
 $user_db="root";
 $pass_db="";
-$db_name="test_php";
+$db_name="gimnasio";
 
 $conexion=new mysqli($host_db,$user_db,$pass_db,$db_name);
 
