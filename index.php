@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forma Forge</title>
-    <link rel="shortcut icon" href="media/img/gym.png" type="image/x-icon">
+    <title>Gold's Gym</title>
+   <link rel="shortcut icon" href="media/img/gym.png" type="image/x-icon">
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body class="index">
@@ -12,7 +12,7 @@
 
     
     <div class="formulario">
-        <h1>Forma Forge</h1>
+        <h1>Gold's Gym</h1>
         <form action="respuesta.php" method="post">
             <div class="username">
                 <input name="nombre_usuario" type="text" required>
