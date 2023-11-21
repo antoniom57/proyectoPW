@@ -13,9 +13,11 @@
     <div class="login">
         <h1>Hola, has iniciado sesión</h1>
     </div>
-    <div class="gym">
-        <img src="media/img/silueta.png" alt="">
-    </div>
+    
+    <form action="index.php">
+        <button class="logout">Cerrar sesión</button>
+    </form>
+    
 </body>
 </html>
 
