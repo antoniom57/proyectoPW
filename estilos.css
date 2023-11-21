@@ -127,13 +127,13 @@ form .username{
 }
 
 .logout{
-    width: 20%;
-    height: 35px;
+    width: 25%;
+    height: 40px;
     background: black;
     color: white;
     cursor: pointer;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 50;
     position:absolute;
     top: 80%;
