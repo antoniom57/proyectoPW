@@ -17,6 +17,10 @@
     <form action="index.php">
         <button class="logout">Cerrar sesión</button>
     </form>
+
+    <form action="eliminar.php">
+        <button class="delete">Eliminar cuenta</button>
+    </form>
     
 </body>
 </html>
