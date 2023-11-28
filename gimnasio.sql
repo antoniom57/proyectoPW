@@ -4,8 +4,7 @@ use gimnasio;
 
 create table clientes(
 id_cliente int(9) not null auto_increment primary key,
-ap_paterno varchar(50) not null,
-ap_materno varchar(50) not null,
+apellidos varchar(100),
 nombre varchar(50) not null,
 direccion text not null,
 telefono varchar(10) not null,
