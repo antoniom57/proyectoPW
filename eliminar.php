@@ -13,7 +13,7 @@
         <h1>Adios :(</h1>
         <form action="deleteuser.php" method="post">
             <div class="userdelete">
-                <input name="nombre" type="text" required>
+                <input name="nombre_usuario" type="text" required>
                 <label>Usuario</label>
             </div>
             
