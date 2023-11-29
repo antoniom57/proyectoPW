@@ -11,7 +11,7 @@
     
 <div class="formRegister">
         <h1>Gold's Gym</h1>
-        <form action="submitRegistro" method="post">
+        <form action="submitRegistro.php" method="post">
             <div class="registro">
                 <input name="nombre" type="text" required>
                 <label>Nombre</label>

@@ -364,3 +364,16 @@ form .registro{
     border-color: #0D0D0D;
     transition: .5s;
 }
+
+
+form .registroGen{
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.registroGen label{
+    position: absolute;
+    top: -50%;
+    left: 10px;
+    color: white;
+    transform: translateY(-50%);
+}
