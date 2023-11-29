@@ -9,7 +9,7 @@
     transform: translate(-50%,-50%);
     width: 400px;
     border-radius: 15px;
-    background: linear-gradient(175deg, #D9D9D9,#8C8C8C,#595959 );
+    background: linear-gradient(150deg, #D9D9D9,#8C8C8C,#595959 );
 }
 
 .formulario h1{
@@ -277,7 +277,7 @@ form .userdelete{
     transform: translate(-50%,-50%);
     width: 400px;
     border-radius: 15px;
-    background: linear-gradient(175deg, #D9D9D9,#8C8C8C,#595959 );
+    background: linear-gradient(200deg, #D9D9D9,#8C8C8C,#595959 );
 }
 
 .formRegister h1{

@@ -16,6 +16,11 @@
                 <input name="nombre_usuario" type="text" required>
                 <label>Usuario</label>
             </div>
+
+            <div class="userdelete">
+                <input name="contraseña" type="password" required>
+                <label>Contraseña</label>
+            </div>
             
             <button class="btndelete">Eliminar usuario</button>
             
